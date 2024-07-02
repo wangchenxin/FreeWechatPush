@@ -13,7 +13,7 @@ appSecret = "bc8d201e7fe14af75eb6db60597cb5e5"
 #收信人ID即 用户列表中的微信号，见上文
 openId = "oEehj6VRaqlZn5HDkUlt-Sqy50BU"
 # 天气预报模板ID
-weather_template_id = ""
+weather_template_id = "Xn1fJRDOwiCGfLWcxyCKpNKV6Q-UqhEE1PT_0T6JiZY"
 # 时间表模板ID
 timetable_template_id = ""
 
